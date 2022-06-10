@@ -1,16 +1,3 @@
-# basic_weather_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Basit Hava Durumu Uygulaması ( Api Bağlantılı )
+## Flutter 3.0.1 ile geliştirildi.
+![Screenshot_1654862942](https://user-images.githubusercontent.com/57150484/173062234-a073717d-e627-4b4d-9b08-c30850bcf10f.png)
